@@ -1,2 +1,3 @@
 # PCA_vs_tSNE
-Dimensionality reduction
+
+Method comparisons dimensionality reduction
